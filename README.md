@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peizhouyu&show_icons=true&theme=tokyonight)](https://github.com/peizhouyu)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peizhouyu&repo=kubernetes)](https://github.com/peizhouyu/kubernetes)
 <!--
 **peizhouyu/peizhouyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
